@@ -8,7 +8,8 @@ https://inside.dmm.com/entry/2021/05/21/DMMVRConnect06
   <img src="./Images/20210518123855.gif" width="240">
 </a>
 
-Looking Glass Portraitで簡単にアバターを表示するためのパッケージを配布しています。   
+Looking Glass Portraitで簡単にアバターを表示するためのパッケージを配布しています。
+
 ご要望がありましたので、パッケージ内のリソース ファイルをリポジトリ上に展開しました。   
 ライセンスはDVRSDKに準拠し、MIT Licenseとなります。
 
