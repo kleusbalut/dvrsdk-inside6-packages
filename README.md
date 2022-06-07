@@ -5,7 +5,7 @@ https://inside.dmm.com/entry/2021/05/21/DMMVRConnect06
 
 - 成果物の一例 (2021/05/21現在)   
 <a href="https://inside.dmm.com/entry/2021/05/21/DMMVRConnect06" target="_blank">
-  <img src="./images/20210518123855.gif" width="240">
+  <img src="./Images/20210518123855.gif" width="240">
 </a>
 
 Looking Glass Portraitで簡単にアバターを表示するためのパッケージを配布しています。   
